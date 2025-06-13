@@ -1,10 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=160&section=header&text=Hi%20👋%20I'm%20Raghunath%20Das&fontColor=ffffff&fontSize=40&fontAlignY=40" />
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Transforming+Data+into+Decisions;Always+Learning+Something+New+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Data+to+Decisions+%F0%9F%93%88;Lifelong+Learner+%F0%9F%92%A1" />
 </p>
+
+
 
 ---
 
@@ -31,6 +32,7 @@ Turning raw data into real insights | Learning something new every day 💡
 ## 🐍 Contributions Snake
 
 ![snake gif](https://github.com/Raghunath-analytics/Raghunath-analytics/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---
