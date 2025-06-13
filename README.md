@@ -27,13 +27,6 @@ Turning raw data into real insights | Learning something new every day 💡
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raghunath-analytics&theme=react-dark&hide_border=true)
 
----
-
-## 🐍 Contributions Snake
-
-![snake gif](https://github.com/Raghunath-analytics/Raghunath-analytics/blob/output/github-contribution-grid-snake.svg)
-
-
 
 ---
 
