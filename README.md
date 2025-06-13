@@ -2,9 +2,36 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=160&section=header&text=Hi%20👋%20I'm%20Raghunath%20Das&fontColor=ffffff&fontSize=40&fontAlignY=40" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Transforming+Data+into+Decisions;Always+Learning+Something+New+💡" alt="Typing SVG" />
+</p>
+
+---
+
 ### 👨‍💻 Data Analyst | 📊 Python • SQL • Power BI • Tableau • Excel  
 Turning raw data into real insights | Learning something new every day 💡  
 📍India
+
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</p>
+
+---
+## 🧠 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghunath-analytics&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghunath-analytics&theme=radical" height="160"/>
+</p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raghunath-analytics&theme=react-dark&hide_border=true)
+
+---
+
+## 🐍 Contributions Snake
+
+![snake gif](https://github.com/Raghunath-analytics/Raghunath-analytics/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
@@ -33,13 +60,12 @@ Turning raw data into real insights | Learning something new every day 💡
 | ![TCS](https://img.shields.io/badge/TCS-MasterCraft%20DataPlus-blueviolet?logo=tata&style=for-the-badge) | MasterCraft DataPlus Certification | TCS | ![]( https://i.ibb.co/bjhLtXqJ/TCS-Master-Craft-Data-Plus-Certification.jpg) |
 
 
-
 ---
 
 ## 🔧 Projects
 
-🚧 Projects section coming soon...  
-<!-- You can list key projects here with links and summaries -->
+🚧 Projects section coming soon...
+
 - <https://github.com/Raghunath-analytics/Data-Analysis-Dashboard-.git>
 - <https://github.com/Raghunath-analytics/Pizza-Performance-Analysis.git>
 - <https://github.com/Raghunath-analytics/Meesho-Sales-Analysis-Dashboard-Power-Bi-.git>
@@ -50,7 +76,6 @@ Turning raw data into real insights | Learning something new every day 💡
 - <https://github.com/Raghunath-analytics/Prodigy_DS_02.git>
 - <https://github.com/Raghunath-analytics/Prodigy_DS_04.git>
 - <https://github.com/Raghunath-analytics/Prodigy_DS_05.git>
-
 
 ---
 
@@ -72,9 +97,3 @@ Turning raw data into real insights | Learning something new every day 💡
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 </p>
-
-
-
-
-
-  
