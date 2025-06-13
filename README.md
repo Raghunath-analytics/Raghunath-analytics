@@ -32,7 +32,7 @@ Turning raw data into real insights | Learning something new every day 💡
 | ![HackerRank](https://img.shields.io/badge/HackerRank-Python%20(Basic)-blueviolet?logo=hackerrank&style=for-the-badge) | Python Basic Certificate | HackerRank | ![]( https://i.ibb.co/zhnTDX3M/Python-basic-certificate-by-Hacker-Rank.jpg) |
 | ![TCS](https://img.shields.io/badge/TCS-MasterCraft%20DataPlus-blueviolet?logo=tata&style=for-the-badge) | MasterCraft DataPlus Certification | TCS | ![]( https://i.ibb.co/bjhLtXqJ/TCS-Master-Craft-Data-Plus-Certification.jpg) |
 
-> ✨ Replace the image links above with your actual certificate image URLs
+
 
 ---
 
