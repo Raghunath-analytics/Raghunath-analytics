@@ -40,16 +40,16 @@ Turning raw data into real insights | Learning something new every day 💡
 
 🚧 Projects section coming soon...  
 <!-- You can list key projects here with links and summaries -->
-<https://github.com/Raghunath-analytics/Data-Analysis-Dashboard-.git>
-<https://github.com/Raghunath-analytics/Pizza-Performance-Analysis.git>
-<https://github.com/Raghunath-analytics/Meesho-Sales-Analysis-Dashboard-Power-Bi-.git>
-<https://github.com/Raghunath-analytics/Beverage-Market-Sales-Insights-.git>
-<https://github.com/Raghunath-analytics/Supply-Chain-Sales-Analysis.git>
-<https://github.com/Raghunath-analytics/CodeAlpha_Iris_Classification_Project.git>
-<https://github.com/Raghunath-analytics/Prodigy_DS_01.git>
-<https://github.com/Raghunath-analytics/Prodigy_DS_02.git>
-<https://github.com/Raghunath-analytics/Prodigy_DS_04.git>
-<https://github.com/Raghunath-analytics/Prodigy_DS_05.git>
+- <https://github.com/Raghunath-analytics/Data-Analysis-Dashboard-.git>
+- <https://github.com/Raghunath-analytics/Pizza-Performance-Analysis.git>
+- <https://github.com/Raghunath-analytics/Meesho-Sales-Analysis-Dashboard-Power-Bi-.git>
+- <https://github.com/Raghunath-analytics/Beverage-Market-Sales-Insights-.git>
+- <https://github.com/Raghunath-analytics/Supply-Chain-Sales-Analysis.git>
+- <https://github.com/Raghunath-analytics/CodeAlpha_Iris_Classification_Project.git>
+- <https://github.com/Raghunath-analytics/Prodigy_DS_01.git>
+- <https://github.com/Raghunath-analytics/Prodigy_DS_02.git>
+- <https://github.com/Raghunath-analytics/Prodigy_DS_04.git>
+- <https://github.com/Raghunath-analytics/Prodigy_DS_05.git>
 
 
 ---
