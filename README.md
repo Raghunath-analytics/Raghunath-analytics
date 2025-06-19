@@ -14,8 +14,13 @@ Turning raw data into real insights | Learning something new every day 💡
 📍India
 
 <p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Data Visualization GIF" />
 </p>
+
+
+
+
+
 
 ---
 ## 🧠 GitHub Stats & Activity
@@ -85,7 +90,10 @@ Turning raw data into real insights | Learning something new every day 💡
 ---
 
 ## 📝 Fun Fact  
-> I think I'm funny — but my models are still testing that hypothesis 😂
+<img src="https://media.giphy.com/media/l3vR9O2qE6YdfAAO4/giphy.gif" width="50"/>
+
+> I once used `WHERE` and `GROUP BY` while explaining weekend plans. #JustAnalystThings 😅
+
 
 ---
 
