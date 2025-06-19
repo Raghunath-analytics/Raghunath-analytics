@@ -67,6 +67,7 @@ Turning raw data into real insights | Learning something new every day 💡
 
 🚧 Projects section coming soon...
 
+- <https://github.com/Raghunath-analytics/Hospital-Patient-Performance-Dashboard.git>
 - <https://github.com/Raghunath-analytics/Data-Analysis-Dashboard-.git>
 - <https://github.com/Raghunath-analytics/Pizza-Performance-Analysis.git>
 - <https://github.com/Raghunath-analytics/Meesho-Sales-Analysis-Dashboard-Power-Bi-.git>
