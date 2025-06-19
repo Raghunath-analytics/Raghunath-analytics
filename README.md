@@ -1,3 +1,4 @@
+![logo](https://github.com/Raghunath-analytics/Raghunath-analytics/blob/main/banner.gif)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=160&section=header&text=Hi%20👋%20I'm%20Raghunath%20Das&fontColor=ffffff&fontSize=40&fontAlignY=40" />
 </p>
